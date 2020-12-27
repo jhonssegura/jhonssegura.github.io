@@ -1,0 +1,12 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://undefined",
+    "workspaceRoot": "c:\\Users\\Synopsis\\Documents\\Projects\\Personales\\personal-blog",
+    "publishWorkspaceOptions": {
+        "destinationFolder": "/",
+        "globPattern": "c:\\Users\\Synopsis\\Documents\\Projects\\Personales\\personal-blog\\src\\**\\*.*",
+        "localRoot": "c:\\Users\\Synopsis\\Documents\\Projects\\Personales\\personal-blog\\src"
+    },
+    "publishingScope": "None",
+    "authenticationType": "Digest"
+}

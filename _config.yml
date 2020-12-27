@@ -96,14 +96,14 @@ author:
   name             : "Jhonathan Segura"
   avatar           : "/assets/images/me.jpg"
   bio              : "In the Science & technology I Trust 
-                      👨🏻‍💻 Programmer Analyst
-                      👨🏻‍🎓 Informatics Technician
-                      🏞️ Merideño"
+                      Medium Programmer Analyst  
+                      ‍Informatics Technician
+                      
   location         : "Lima, Perú"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "jhonssegura@outlook.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://jhonssegura.com/"
